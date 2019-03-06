@@ -1,0 +1,22 @@
+total 236
+drwxrwxr-x 3 csc415 csc415   4096 Oct 24 22:03 .
+drwxrwxr-x 3 csc415 csc415   4096 Oct  5 18:48 ..
+-rw-rw-r-- 1 csc415 csc415 178699 Oct  5 18:48 415_HW3.pdf
+-rw-rw-r-- 1 csc415 csc415    157 Oct  5 18:48 CMakeLists.txt
+drwxrwxr-x 8 csc415 csc415   4096 Oct 24 17:00 .git
+-rw-rw-r-- 1 csc415 csc415    430 Oct  5 18:48 .gitignore
+-rw-rw-r-- 1 csc415 csc415   1074 Oct  5 18:48 LICENSE
+-rw-rw-r-- 1 csc415 csc415     82 Oct  5 18:48 Makefile
+-rwxrwxr-x 1 csc415 csc415  14064 Oct 24 22:02 myshell
+-rw-rw-r-- 1 csc415 csc415   9034 Oct 24 22:02 myshell.c
+-rw-rw-r-- 1 csc415 csc415    285 Oct 19 17:47 README.md
+-rwxrwxr-x 1 csc415 csc415      0 Oct 24 22:03 text
+total 224
+-rw-rw-r-- 1 csc415 csc415 178699 Oct  5 18:48 415_HW3.pdf
+-rw-rw-r-- 1 csc415 csc415    157 Oct  5 18:48 CMakeLists.txt
+-rw-rw-r-- 1 csc415 csc415   1074 Oct  5 18:48 LICENSE
+-rw-rw-r-- 1 csc415 csc415     82 Oct  5 18:48 Makefile
+-rwxrwxr-x 1 csc415 csc415  14064 Oct 24 22:02 myshell
+-rw-rw-r-- 1 csc415 csc415   9034 Oct 24 22:02 myshell.c
+-rw-rw-r-- 1 csc415 csc415    285 Oct 19 17:47 README.md
+-rwxrwxr-x 1 csc415 csc415    672 Oct 24 22:03 text
